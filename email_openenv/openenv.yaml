@@ -1,0 +1,5 @@
+name: email-triage-env
+description: Automatic email triage (category + main subject extraction)
+tasks:
+  - auto-triage
+reward_range: [0.0, 1.0]

@@ -3,8 +3,8 @@ title: Email Smart Triage
 emoji: "📧"
 colorFrom: blue
 colorTo: green
-sdk: streamlit
-app_file: app.py
+sdk: docker
+app_port: 8501
 pinned: false
 ---
 
